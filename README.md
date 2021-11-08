@@ -19,7 +19,7 @@ npx react-native run-android
 
 ## Authors
 
-Contributors names and contact info
 @iamdhariot
+
 mail @ iamdhariot@gmail.com
 
