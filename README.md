@@ -1,6 +1,3 @@
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
 # ReactSagaWithRNExample
 
 ## Description
@@ -29,3 +26,5 @@ npx react-native run-android
 @iamdhariot
 
 mail @ iamdhariot@gmail.com
+
+:) Thanks
