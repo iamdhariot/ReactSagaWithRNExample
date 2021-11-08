@@ -27,4 +27,4 @@ npx react-native run-android
 
 mail @ iamdhariot@gmail.com
 
-@octocat :+1: Happy coding!
+##Happy coding! :+1:
