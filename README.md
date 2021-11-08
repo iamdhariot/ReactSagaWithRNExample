@@ -27,4 +27,4 @@ npx react-native run-android
 
 mail @ iamdhariot@gmail.com
 
-:) Thanks
+:): Thanks
